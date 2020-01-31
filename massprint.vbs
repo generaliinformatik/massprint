@@ -13,7 +13,7 @@
 '
 '
 ' https://github.com/generaliinformatik/massprint
-' (c) 2020 Generali Informatik
+' (c) 2020 Generali Deutschland Informatik Services GmbH
 '-------------------------------------------------------------------------------
 
 Option Explicit
